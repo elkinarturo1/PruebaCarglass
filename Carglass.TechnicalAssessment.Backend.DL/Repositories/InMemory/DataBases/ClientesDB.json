@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "DocType": "nif",
+    "DocNum": "11223344E",
+    "Email": "eromani@sample.com",
+    "GivenName": "Enriqueta",
+    "FamilyName1": "Romani",
+    "Phone": "668668668"
+  },
+  {
+    "Id": 2,
+    "DocType": "nie",
+    "DocNum": "11234567B",
+    "Email": "homero@example.com",
+    "GivenName": "homero",
+    "FamilyName1": "simpson",
+    "Phone": "555555555"
+  },
+  {
+    "Id": 3,
+    "DocType": "nif",
+    "DocNum": "12345678F",
+    "Email": "marge@example.com",
+    "GivenName": "Marge",
+    "FamilyName1": "Simpson",
+    "Phone": "123456789"
+  },
+  {
+    "Id": 4,
+    "DocType": "nie",
+    "DocNum": "23456789G",
+    "Email": "lisa@example.com",
+    "GivenName": "Lisa",
+    "FamilyName1": "Simpson",
+    "Phone": "987654321"
+  },
+  {
+    "Id": 5,
+    "DocType": "nif",
+    "DocNum": "34567890H",
+    "Email": "bart@example.com",
+    "GivenName": "Bart",
+    "FamilyName1": "Simpson",
+    "Phone": "567890123"
+  }  
+]

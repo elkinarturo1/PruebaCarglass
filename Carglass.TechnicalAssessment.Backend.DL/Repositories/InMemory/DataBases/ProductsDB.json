@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1111111,
+    "productName": "Cristal ventanilla delantera",
+    "productType": 25,
+    "numTerminal": 933933933,
+    "soldAt": "2019-01-09 14:26:17"
+  },
+  {
+    "id": 2222222,
+    "productName": "Frenos de disco delanteros",
+    "productType": 40,
+    "numTerminal": 844844844,
+    "soldAt": "2020-05-15 10:45:32"
+  },
+  {
+    "id": 3333333,
+    "productName": "Aceite de motor sintético",
+    "productType": 12,
+    "numTerminal": 755755755,
+    "soldAt": "2021-03-21 16:18:55"
+  },
+  {
+    "id": 4444444,
+    "productName": "Neumáticos de verano",
+    "productType": 30,
+    "numTerminal": 666666666,
+    "soldAt": "2022-07-12 08:37:42"
+  },
+  {
+    "id": 5555555,
+    "productName": "Batería de coche",
+    "productType": 15,
+    "numTerminal": 577577577,
+    "soldAt": "2019-11-30 09:55:28"
+  },
+  {
+    "id": 6666666,
+    "productName": "Kit de embrague",
+    "productType": 20,
+    "numTerminal": 488488488,
+    "soldAt": "2020-08-03 13:12:14"
+  },
+  {
+    "id": 7777777,
+    "productName": "Amortiguadores traseros",
+    "productType": 35,
+    "numTerminal": 399399399,
+    "soldAt": "2021-06-27 11:30:09"
+  },
+  {
+    "id": 8888888,
+    "productName": "Radiador de refrigeración",
+    "productType": 22,
+    "numTerminal": 311311311,
+    "soldAt": "2022-01-18 18:59:36"
+  },
+  {
+    "id": 9999999,
+    "productName": "Filtros de aire de alta eficiencia",
+    "productType": 10,
+    "numTerminal": 222222222,
+    "soldAt": "2020-12-05 17:42:21"
+  },
+  {
+    "id": 1010101,
+    "productName": "Llantas de aleación",
+    "productType": 28,
+    "numTerminal": 133133133,
+    "soldAt": "2021-09-10 07:21:48"
+  }
+]
